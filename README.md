@@ -30,6 +30,4 @@ You will find three main folders: "code", "data", and "output".
 
 3) output: You will find two subfolders in this file: 
 	3.1). "clean data" is a folder that contains the datasets after each cleaning process. 
-	3.2). "tables" is a folder that will contain the descriptives tables. 
-
- 
+	3.2). "tables" is a folder that will contain the descriptives tables.
